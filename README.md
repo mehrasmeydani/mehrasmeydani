@@ -48,6 +48,12 @@ Backend-focused software developer and **[42 Vienna](https://www.42vienna.com/)*
 ### 🏠 [RealDoor](https://github.com/mehrasmeydani/chatform-connect) · `React` `TypeScript` `FastAPI` `Python` `OpenAI`
 An **application-readiness copilot for renters**, built for the Hack-Nation × MIT / RealPage hackathon. It **extracts** fields from household documents with confidence scores and source citations, **explains** program rules from a frozen, versioned corpus, runs the income math **deterministically**, and **prepares** a renter-controlled document packet — never approving, denying, or scoring anyone. Every LLM path (OpenAI GPT-4o) has a keyless deterministic fallback; 300+ automated tests, security-hardened against prompt injection.
 
+### 🎲 [I Guess Low](https://github.com/mehrasmeydani/I-Guess-42) · `Rust` `axum` `SQLite` `Docker`
+A daily **lowest-unique-number game** for 42 students: sign in with your 42 intra account, submit one whole number, and at 12:42 Vienna time the lowest number picked by exactly one player wins. A server-rendered **Rust** web app (`axum` + `askama`) on SQLite via `sqlx`, with **42 OAuth2** login, server-side sessions, hidden guesses until the round closes, and an admin-only test mode for shifting the game clock and simulating players. Deployed with Docker Compose behind Caddy with automatic HTTPS.
+
+### 🐉 [Obsidian D&D VTT](https://github.com/mehrasmeydani/obsidian_dnd_vtt) · `TypeScript` `Obsidian API` `Docker`
+A **virtual tabletop for D&D 5e** built as an Obsidian plugin — character sheets, notes, battle maps, and multiplayer sync for self-hosted groups. Ships only SRD-licensed rules content and lets users import their own data locally. The guided character-creation wizard (races, classes, backgrounds, levels, equipment) is working; an editable sheet view is next. *Work in progress.*
+
 ### 🦀 [For Legal Reasons This Is Game](https://github.com/for-legal-reasons-this-is-game/For-legal-reasons-this-is-game) · `Rust` `Docker`
 An API-first, real-time **simulated trading platform** for paper-trading stocks, coins, and options. Built as a modular, horizontally scalable system with a **Rust** backend, a dedicated trading engine that recalculates prices from platform activity, and a custom relational data layer — all containerized with Docker. *Team project (ft_transcendence).*
 
@@ -56,6 +62,9 @@ A from-scratch **HTTP/1.1 web server** with a non-blocking, event-driven core bu
 
 ### 🐚 [Minishell — Unix Shell](https://github.com/mehrasmeydani/minishell) · `C`
 A lightweight **bash-like shell** in C: tokenizing and parsing, pipes, input/output redirection, heredocs, environment-variable expansion, quote handling, signal management, and built-ins (`cd`, `echo`, `export`, `unset`, `env`, `pwd`, `exit`). Manages processes with `fork` / `execve` and careful memory cleanup.
+
+### 🧱 [cub3D — Raycaster](https://github.com/mehrasmeydani/42_cub3d) · `C` `miniLibX`
+A **Wolfenstein-3D-style first-person maze** rendered with a DDA **ray-casting** engine in C: per-direction wall textures, fisheye correction, smooth movement and rotation, and a validating `.cub` map parser. The bonus build adds a live minimap with ray visualization, mouse look, and animated sprites. *Team project.*
 
 ### 🐳 [Inception](https://github.com/mehrasmeydani/inception) · `Docker` `Docker Compose`
 A containerized **three-tier web stack** — Nginx, WordPress (PHP-FPM), and MariaDB — each service built from its own Dockerfile and orchestrated with Docker Compose over a dedicated bridge network with persistent volumes. A deep dive into container networking, data persistence, and multi-service orchestration versus traditional VM-based infrastructure.
@@ -68,6 +77,15 @@ A hybrid **C++ / Python** project building toward a **reinforcement-learning** 2
 
 ### 🧩 [42 C++ Modules](https://github.com/mehrasmeydani/42_CPP_modules) · `C++98/11`
 The 42 curriculum's C++ track (`cpp_00`–`cpp_09`): progressing from OOP fundamentals through inheritance, polymorphism, templates, and the STL, culminating in implementing the **Ford-Johnson merge-insertion sort** algorithm.
+
+---
+
+## 📂 All Public Projects
+
+<sub>Updated automatically every day by a GitHub Action.</sub>
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 ---
 
