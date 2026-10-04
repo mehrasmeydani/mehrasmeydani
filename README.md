@@ -85,6 +85,19 @@ The 42 curriculum's C++ track (`cpp_00`–`cpp_09`): progressing from OOP fundam
 <sub>Updated automatically every day by a GitHub Action.</sub>
 
 <!-- PROJECTS:START -->
+| Project | Description | Language | ⭐ | Updated |
+|---|---|---|---|---|
+| [rustlings](https://github.com/mehrasmeydani/rustlings) |  | Rust | 0 | Oct 2026 |
+| [inception](https://github.com/mehrasmeydani/inception) |  | Makefile | 0 | Oct 2026 |
+| [42_cub3d](https://github.com/mehrasmeydani/42_cub3d) |  | C | 1 | Oct 2026 |
+| [common_core](https://github.com/mehrasmeydani/common_core) |  | C | 0 | Oct 2026 |
+| [42_CPP_modules](https://github.com/mehrasmeydani/42_CPP_modules) |  | C++ | 0 | Oct 2026 |
+| [philo](https://github.com/mehrasmeydani/philo) |  | C | 0 | Oct 2026 |
+| [I-Guess-42](https://github.com/mehrasmeydani/I-Guess-42) |  | Rust | 0 | Sep 2026 |
+| [chatform-connect](https://github.com/mehrasmeydani/chatform-connect) |  | Python | 0 | Jul 2026 |
+| [obsidian_dnd_vtt](https://github.com/mehrasmeydani/obsidian_dnd_vtt) |  | TypeScript | 0 | Jul 2026 |
+| [2048_AI](https://github.com/mehrasmeydani/2048_AI) |  | Python | 0 | Apr 2026 |
+| [minishell](https://github.com/mehrasmeydani/minishell) |  | C | 1 | Feb 2026 |
 <!-- PROJECTS:END -->
 
 ---
