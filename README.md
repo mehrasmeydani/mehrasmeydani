@@ -93,7 +93,7 @@ The 42 curriculum's C++ track (`cpp_00`–`cpp_09`): progressing from OOP fundam
 | [common_core](https://github.com/mehrasmeydani/common_core) |  | C | 0 | Oct 2026 |
 | [42_CPP_modules](https://github.com/mehrasmeydani/42_CPP_modules) |  | C++ | 0 | Oct 2026 |
 | [philo](https://github.com/mehrasmeydani/philo) |  | C | 0 | Oct 2026 |
-| [I-Guess-42](https://github.com/mehrasmeydani/I-Guess-42) |  | Rust | 0 | Sep 2026 |
+| [I-Guess-42](https://github.com/mehrasmeydani/I-Guess-42) |  | Rust | 0 | Oct 2026 |
 | [chatform-connect](https://github.com/mehrasmeydani/chatform-connect) |  | Python | 0 | Jul 2026 |
 | [obsidian_dnd_vtt](https://github.com/mehrasmeydani/obsidian_dnd_vtt) |  | TypeScript | 0 | Jul 2026 |
 | [2048_AI](https://github.com/mehrasmeydani/2048_AI) |  | Python | 0 | Apr 2026 |
