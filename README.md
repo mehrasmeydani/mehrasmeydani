@@ -87,6 +87,7 @@ The 42 curriculum's C++ track (`cpp_00`–`cpp_09`): progressing from OOP fundam
 <!-- PROJECTS:START -->
 | Project | Description | Language | ⭐ | Updated |
 |---|---|---|---|---|
+| [ultimate_pushswap](https://github.com/mehrasmeydani/ultimate_pushswap) |  | C | 0 | Oct 2026 |
 | [42_cub3d](https://github.com/mehrasmeydani/42_cub3d) |  | C | 0 | Oct 2026 |
 | [I-Guess-42](https://github.com/mehrasmeydani/I-Guess-42) |  | Rust | 0 | Oct 2026 |
 | [rustlings](https://github.com/mehrasmeydani/rustlings) |  | Rust | 0 | Oct 2026 |
